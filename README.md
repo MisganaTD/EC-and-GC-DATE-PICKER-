@@ -3,9 +3,9 @@
 ## Introduction
 This code enables you to pick Ethiopian AND/OR Gregorian Calendars. You can configure it where you need to use. 
 ## Technologies Used
-*   **Programming Language:**  PHP
+*   **Programming Language:** JavaScript
 *   **Web Server:**  XAMPP (Apache)
-*   **Frontend:**  HTML, CSS, JavaScript  
+*   **Frontend:**  HTML, CSS  
 ## Installation
 1.  **Prerequisites:**
     *   XAMPP installed on your system.
